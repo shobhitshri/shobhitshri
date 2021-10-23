@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shobhitshri)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Shobhit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shobhitshri)](https://github.com/anuraghazra/github-readme-stats)
+[![Shobhit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shobhitshri&custom_title=Shobhit's stats&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
