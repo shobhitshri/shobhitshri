@@ -6,7 +6,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [Desktop PC as “One Ring To Rule Them All” of Home Computing](https://medium.com/geekculture/desktop-pc-as-one-ring-to-rule-them-all-of-home-computing-8d22972292f8?source=rss-a95233ff5106------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
