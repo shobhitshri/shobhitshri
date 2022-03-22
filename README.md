@@ -6,7 +6,6 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Modern Biographies To Read in a Year](https://medium.com/new-writers-welcome/10-modern-biographies-to-read-in-a-year-8a8c2279b4b6?source=rss-a95233ff5106------2)
 - [Desktop PC as “One Ring To Rule Them All” of Home Computing](https://medium.com/geekculture/desktop-pc-as-one-ring-to-rule-them-all-of-home-computing-8d22972292f8?source=rss-a95233ff5106------2)
 <!-- BLOG-POST-LIST:END -->
 
