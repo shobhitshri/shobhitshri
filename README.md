@@ -1,8 +1,6 @@
-[![Shobhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=shobhitshri&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Shobhit's GitHub stats](https://github-stats-extended.vercel.app/api?username=shobhitshri)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shobhitshri&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Shobhit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shobhitshri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=shobhitshri&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
